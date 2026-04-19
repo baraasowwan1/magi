@@ -97,7 +97,7 @@ export function Contact() {
           <div className="bg-white p-4 rounded-xl shadow-lg max-w-5xl mx-auto">
             <div className="relative w-full h-[500px] rounded-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/search/%D8%AF%D9%88%D8%A7%D8%B1+%D8%A7%D9%84%D9%83%D9%8A%D9%84%D9%88+%D8%8C+%D8%B4%D8%A7%D8%B1%D8%B9+%D9%85%D9%83%D9%87+%D8%B9%D9%85%D8%A7%D8%B1%D9%87+136+,+%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82+%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AA%E2%80%AD/@31.9756487,35.8655968,17.95z?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D"
+                src="<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6895.804489609427!2d35.86255697216331!3d31.972830572332434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z2K_ZiNin2LEg2KfZhNmD2YrZhNmIINiMINi02KfYsdi5INmF2YPZhyDYudmF2KfYsdmHIDEzNiA!5e0!3m2!1sen!2sjo!4v1776624781905!5m2!1sen!2sjo" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
