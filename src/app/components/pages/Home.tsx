@@ -45,11 +45,11 @@ export function Home() {
         {/* 🔥 تدرج ذهبي خفيف */}
         <div className="absolute inset-0 bg-gradient-to-br from-yellow-600/20 via-transparent to-yellow-600/10"></div>
 
-        <div className="container mx-auto px-4 h-full flex items-center relative z-10">
-          <div className="max-w-2xl">
-            <h2 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-yellow-500">
-              نحول أحلامك إلى واقع
-            </h2>
+        <div className="container mx-auto px-4 h-full flex items-center justify-center relative z-10">
+  <div className="max-w-2xl text-center">
+    <h2 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-yellow-500">
+      نحول أحلامك إلى واقع
+    </h2>
             <p className="text-xl md:text-2xl mb-8 text-gray-200">
               تصاميم داخلية فاخرة وديكورات استثنائية تعكس ذوقك الرفيع
             </p>
