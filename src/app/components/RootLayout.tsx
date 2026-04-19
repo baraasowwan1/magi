@@ -47,7 +47,7 @@ export function RootLayout() {
             {/* 🔥 Logo */}
             <Link to="/" className="flex items-center gap-3">
 <img
-  src="https://scontent.famm2-3.fna.fbcdn.net/v/t39.30808-6/480906017_638600692009889_1131666183378309730_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=po7QRDYo57cQ7kNvwGT0cGR&_nc_oc=AdrIy_uY2eoSYDUNZwjrVKkAzPgRK8LwDP876asVnElnL5rf434aqiAGH_7TWU427ag&_nc_zt=23&_nc_ht=scontent.famm2-3.fna&_nc_gid=4U9g67YHX5IM2jya8IuhvA&_nc_ss=7a389&oh=00_Af2YsazxrqHDKirEtP9m2oObWIumjfIGui00ObJ6C9KFqw&oe=69EB1954"
+  src="https://i.im.ge/eBFYVT/caslogo.png"
   className="h-12"
 />
 
