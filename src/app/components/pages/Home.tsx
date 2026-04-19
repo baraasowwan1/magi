@@ -29,14 +29,28 @@ export function Home() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="relative h-[600px] bg-black text-white overflow-hidden">
+      <section className="relative h-[600px] text-white overflow-hidden">
+        
+        {/* 🔥 صورة الخلفية */}
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: "url('https://i.im.ge/eBFNcP/480906017_638600692009889_1131666183378309730_n.jpg')",
+          }}
+        ></div>
+
+        {/* 🔥 طبقة تغميق */}
+        <div className="absolute inset-0 bg-black/60"></div>
+
+        {/* 🔥 تدرج ذهبي خفيف */}
         <div className="absolute inset-0 bg-gradient-to-br from-yellow-600/20 via-transparent to-yellow-600/10"></div>
+
         <div className="container mx-auto px-4 h-full flex items-center relative z-10">
           <div className="max-w-2xl">
             <h2 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-yellow-500">
               نحول أحلامك إلى واقع
             </h2>
-            <p className="text-xl md:text-2xl mb-8 text-gray-300">
+            <p className="text-xl md:text-2xl mb-8 text-gray-200">
               تصاميم داخلية فاخرة وديكورات استثنائية تعكس ذوقك الرفيع
             </p>
             <div className="flex gap-4 flex-wrap">
@@ -49,7 +63,7 @@ export function Home() {
               </Link>
               <Link
                 to="/contact"
-                className="bg-transparent border-2 border-yellow-600 text-yellow-500 px-8 py-4 rounded-lg font-bold hover:bg-yellow-600/10 transition-colors"
+                className="bg-transparent border-2 border-yellow-600 text-yellow-500 px-8 py-4 rounded-lg font-bold hover:bg-yellow-600/20 transition-colors"
               >
                 تواصل معنا
               </Link>
