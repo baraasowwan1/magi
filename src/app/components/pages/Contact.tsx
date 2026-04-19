@@ -97,15 +97,15 @@ export function Contact() {
           <div className="bg-white p-4 rounded-xl shadow-lg max-w-5xl mx-auto">
             <div className="relative w-full h-[500px] rounded-lg overflow-hidden">
               <iframe
-                src="<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6895.804489609427!2d35.86255697216331!3d31.972830572332434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z2K_ZiNin2LEg2KfZhNmD2YrZhNmIINiMINi02KfYsdi5INmF2YPZhyDYudmF2KfYsdmHIDEzNiA!5e0!3m2!1sen!2sjo!4v1776624781905!5m2!1sen!2sjo" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="موقع Majestic Interior Design على الخريطة"
-              ></iframe>
+  src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6895.804489609427!2d35.86255697216331!3d31.972830572332434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z2K_ZiNin2LEg2KfZhNmD2YrZhNmIINiMINi02KfYsdi5INmF2YPZhyDYudmF2KfYsdmHIDEzNiA!5e0!3m2!1sen!2sjo!4v1776624781905!5m2!1sen!2sjo"
+  width="100%"
+  height="100%"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="موقع Majestic Interior Design على الخريطة"
+></iframe>
             </div>
           </div>
         </div>
