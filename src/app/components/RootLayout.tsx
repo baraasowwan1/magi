@@ -29,7 +29,7 @@ export function RootLayout() {
           <div className="flex items-center justify-between">
             <Link to="/" className="flex items-center gap-3">
               <img
-                src="/src/imports/440734450_994150582077942_322961359141246755_n.jpg"
+                src="/src/caslogo.png"
                 alt="Majestic Logo"
                 className="h-14 w-auto"
               />
